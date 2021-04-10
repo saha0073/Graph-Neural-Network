@@ -18,7 +18,7 @@ There are quite a few types of GNN, such as Graph Convolution Network, Graph LST
  
  ## Context
  
-I started working on Graph Neural Network (GNN) as a part of reasearch project at University of Minnesota. Later I presented about GNN in the company I was working then. These are the jupyter notebook and slides from the presentation. 
+I started working on Graph Neural Network (GNN) as a part of reasearch project at the University of Minnesota. Later I gave a presentation on GNN in the company I was working then. These are the jupyter notebook and slides from the presentation. 
 
 ## References
 * A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage) by Kung-Hsiang Huang in [Medium](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3).
