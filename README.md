@@ -1,6 +1,6 @@
 # Graph-Neural-Network
 
-## Skills employed
+## Techniques used
 
 * Modelling Techniques: Graph-based Neural Network Models - Graph Convolutional Network
 * Tech Stack: Python, Jupyter
